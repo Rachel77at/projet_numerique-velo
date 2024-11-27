@@ -52,9 +52,3 @@ Pour exécuter ce projet, vous devez disposer de :
 
 ---
 
-## **Exécution**
-### **Installation**
-Clonez le dépôt sur votre machine locale :
-```bash
-git clone https://github.com/nom-utilisateur/chute-libre-baumgartner.git
-cd chute-libre-baumgartner
